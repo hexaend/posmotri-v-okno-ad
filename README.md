@@ -17,3 +17,5 @@ python3 -m http.server 8000
 - `index.html` — разметка страницы и шаблоны карточек.
 - `styles/` — стили страницы, индикатора загрузки и сообщения об ошибке.
 - `scripts/script.js` — загрузка видео, поиск и переключение роликов.
+
+https://github.com/hexaend/posmotri-v-okno-ad
